@@ -227,7 +227,7 @@ U  /"\  u    |"|     \| ___"|/   \ \/"/   U  /"\  u   | \ |"|     |  _"\   \| __
                     <div className="w-3 h-3 duration-200 cursor-pointer bg-yellow-500 rounded-full"></div>
                     <div className="w-3 h-3 cursor-pointer duration-200 bg-green-500 rounded-full"></div>
                 </div>
-                <h1>not-lain.xyz</h1>
+                <h1>Alexander.xyz</h1>
                 <span className="border flex gap-1 font-medium text-sm border-white/30 rounded-lg p-2 justify-center items-center">
                     <TerminalSquare size={17} />
                     zsh
