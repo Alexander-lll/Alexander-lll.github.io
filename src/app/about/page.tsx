@@ -22,7 +22,7 @@ const AboutPage = () => {
                 <h1 className=" text-3xl lg:text-5xl font-bold tracking-wide mt-7">
                     Hi. I&apos;m{" "}
                     <a href="https://twitter.com/not_so_lain" rel="noopener noreferrer" target="_blank" className=" text-balance text-blue-500">
-                        @not_so_lain{" "}
+                        @Alexander-lll{" "}
                     </a>
                     🤗
                 </h1>
