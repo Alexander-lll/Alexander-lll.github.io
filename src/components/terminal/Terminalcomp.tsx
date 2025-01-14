@@ -76,13 +76,13 @@ const Terminalcomp: React.FC = () => {
                 window.location.href = "https://youtu.be/hf1DkBQRQj4?t=13";
                 output = "";
                 break;
-            case "hafedh":
-                output = "Hello there! I am hafedh, a machine learning engineer, currently looking for new opportunities in the AI field. Type about to know more about me";
+            case "Alexander":
+                output = "Hello there! I am Alexander, a machine learning engineer, currently looking for new opportunities in the AI field. Type about to know more about me";
                 break;
             case "py hafedh":
                 output = "python -m pip install loadimg pxia";
                 break;
-            case "lain":
+            case "Alexander":
                 output = `⠠⡐⢠⠂⠥⠒⡌⠰⡈⢆⡑⢢⠘⡐⢢⠑⢢⠁⠦⢡⢂⠣⢌⠒⡄⢃⠆⡱⢌⠒⠌⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⡀⢀⠀⠠⠀⠠⠀⠀⠀⠀⠀⠀⠀⠣⢘⡐⢢⢡⠒⡌⠒⠤⢃⠜⡰⢈⠔⢢⠑⢢⠑⡌⠒⡌⠰⢌⠒⡰⢈⠒⢌⠢⡑⢢⠁⠎⠤⡑⢂⠆⡑⠢⢌
 ⠠⠑⣂⢉⠒⡥⠘⡡⢑⠢⡘⠤⡉⠔⡡⠊⡅⠚⡌⠢⠜⡰⢈⡒⠌⡆⡍⠐⠀⠀⠀⠀⠀⠂⠄⡐⠀⠀⠀⠐⠀⠀⠂⠈⠐⠀⠄⠂⠀⠂⠁⢀⠀⠠⢀⠀⠀⠀⡀⠀⠈⠢⢡⢊⠔⣉⠦⡁⢎⠰⡉⠆⡑⢊⠔⢃⠌⡱⢈⠣⡘⢄⠃⡡⠋⡄⢓⡈⢆⡉⠎⡰⢉⠆⡘⠡⢃⠌
 ⠠⠓⡄⢊⠔⢢⠑⡐⠣⡑⢌⠢⠱⡘⢄⠓⡌⠱⢠⡉⠆⡅⢣⠘⠈⠀⠀⠀⠀⠀⠀⠀⠄⠠⠀⠠⠀⠁⠌⠀⠀⠈⠀⠈⠀⠐⠀⡀⠂⠀⠐⠀⠂⠁⡀⠠⠁⠀⠀⠀⠀⠀⠀⠈⠘⡄⢢⠑⡌⢢⠑⡌⠱⡈⠜⡐⣊⠔⡡⢒⠡⢊⠔⡡⠓⡈⠦⠘⠤⡘⢢⠑⡌⢢⠑⡃⢎⡘
