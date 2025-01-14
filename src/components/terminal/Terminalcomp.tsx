@@ -79,7 +79,7 @@ const Terminalcomp: React.FC = () => {
             case "Alexander":
                 output = "Hello there! I am Alexander, a machine learning engineer, currently looking for new opportunities in the AI field. Type about to know more about me";
                 break;
-            case "py hafedh":
+            case "whoami":
                 output = "python -m pip install loadimg pxia";
                 break;
             case "Alexander":
