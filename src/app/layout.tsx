@@ -12,7 +12,7 @@ const inter = Roboto({ weight: "400", style: "normal", subsets: ["greek"] });
 
 export const metadata: Metadata = {
     title: "Home - Alexander ",
-    description: "Hello there I am Alexander a machine learning engineer ",
+    description: "Hello there I am Alexander a entrepreneur ",
     metadataBase: new URL("https://alexander-lll.github.io/"),
     openGraph: {
         images: "https://drive.google.com/uc?id=115jAg4IPD_ElHcYuS3kLoPOHhWBq0RF2",
