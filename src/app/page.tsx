@@ -23,7 +23,7 @@ const page = () => {
                     Hello World
                 </span>
                 <div className="flex items-center gap-3">
-                    <h1 className="text-4xl flex gap-12 items-center flex-row md:text-7xl lg:text-8xl font-bold ">Hey, I&apos;m Hafedh</h1>
+                    <h1 className="text-4xl flex gap-12 items-center flex-row md:text-7xl lg:text-8xl font-bold ">Hey, I&apos;m Alexander</h1>
                     {/* <Image src={clock} alt="coffeCup" className="w-12 rotate-12 h-12 lg:w-16 lg:h-16" /> */}
                 </div>
                 <h1 className=" font-bold lg:text-3xl">
