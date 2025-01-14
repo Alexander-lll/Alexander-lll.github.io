@@ -33,7 +33,7 @@ const AboutPage = () => {
                 </h2>
                 <p className="text-md lg:text-2xl flex flex-col gap-2 whitespace-break-spaces font-normal">
                     <span>
-                        Hey , stranger 👋 I&apos;m Alexander, a machine learning engineer from Tunisia. I&apos;m a <span className=" text-[#FF9D00] font-bold">HuggingFace Fellow 🤗</span> that occasionally contributes to{" "}
+                        Hey , stranger 👋 I&apos;m Alexander, a machine learning engineer from the CA, Bay Area. I&apos;m a <span className=" text-[#FF9D00] font-bold">Machine Leanring Engineer</span> that occasionally contributes to{" "}
                         <a href="https://github.com/not-lain" target="_blank" rel="noopener noreferrer" className=" text-[#dd59eb] font-bold ">
                             Open Source
                         </a>
