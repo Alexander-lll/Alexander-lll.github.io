@@ -1,8 +1,8 @@
 import React from "react";
 export function generateMetadata() {
     return {
-        title: "About - Hafedh",
-        description: "Hi. I'm Hafedh Hichri, a machine learning engineer from Tunisia. I am a machine learning engineer and a huggingface fellow 🤗, I love building software that solves real world problems which is probably why everything I build is Open Source. My everyday tech stack includes transformers, PyTorch, TensorFlow, Pythons, ...",
+        title: "About - Alexander",
+        description: "Hi. I'm Alexander, a machine learning engineer from Tunisia. I am a machine learning engineer and a huggingface fellow 🤗, I love building software that solves real world problems which is probably why everything I build is Open Source. My everyday tech stack includes transformers, PyTorch, TensorFlow, Pythons, ...",
         openGraph: {
             images: "https://cdn.discordapp.com/attachments/1079039236302446705/1207210027333718096/SHIVA_1.png?ex=65ded0f3&is=65cc5bf3&hm=c511a0d118dae42adfc43114877d0689863f328da2dcc78c02826d271a5cd27f&",
         },
@@ -33,7 +33,7 @@ const AboutPage = () => {
                 </h2>
                 <p className="text-md lg:text-2xl flex flex-col gap-2 whitespace-break-spaces font-normal">
                     <span>
-                        Hey , stranger 👋 I&apos;m hafedh hichri, a machine learning engineer from Tunisia. I&apos;m a <span className=" text-[#FF9D00] font-bold">HuggingFace Fellow 🤗</span> that occasionally contributes to{" "}
+                        Hey , stranger 👋 I&apos;m Alexander, a machine learning engineer from Tunisia. I&apos;m a <span className=" text-[#FF9D00] font-bold">HuggingFace Fellow 🤗</span> that occasionally contributes to{" "}
                         <a href="https://github.com/not-lain" target="_blank" rel="noopener noreferrer" className=" text-[#dd59eb] font-bold ">
                             Open Source
                         </a>
