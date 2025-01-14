@@ -89,7 +89,7 @@ const AboutPage = () => {
                 <p className=" text-md lg:text-2xl whitespace-break-spaces font-normal">
                     I&apos;m excited to connect with others via email (
                     <a href="mailto:hhichri60@gmail.com?body=Hello" rel="noopener noreferrer" target="_blank" className=" text-blue-500 italic font-bold">
-                        hhichri60@gmail.com
+                        alexanderdrivas@icloud.com
                     </a>
                     ) and{" "}
                     <a href="https://twitter.com/not_so_lain" rel="noopener noreferrer" target="_blank" className="font-bold italic text-blue-500">
