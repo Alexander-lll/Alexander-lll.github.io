@@ -45,8 +45,8 @@ const AboutPage = () => {
                     </span>
                     <span>
                         My Editor of choice is{" "}
-                        <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" className=" text-lg text-blue-500 font-bold uppercase">
-                            VSCODE
+                        <a href="https://vscodium.com/" target="_blank" rel="noopener noreferrer" className=" text-lg text-blue-500 font-bold uppercase">
+                            VSCODIUM
                         </a>{" "}
                         💻
                     </span>
@@ -76,7 +76,7 @@ const AboutPage = () => {
                     <a href="https://twitter.com/not_so_lain" target="_blank" rel="noopener noreferrer">
                         <TwitterLogoIcon className=" h-6 lg:h-10 w-8 lg:w-8 duration-200 hover:-translate-y-2 cursor-pointer" />
                     </a>
-                    <a href="mailto:hhichri60@gmail.com?body=Hello" target="_blank" rel="noopener noreferrer">
+                    <a href="mailto:alexanderdrivas@icloud.com?body=Hello" target="_blank" rel="noopener noreferrer">
                         <MailPlus className=" h-6 lg:h-10 w-8 lg:w-8 duration-200 hover:-translate-y-2 cursor-pointer" />
                     </a>
                     <a href="https://instagram.com/not_so_lain" target="_blank" rel="noopener noreferrer">
@@ -88,7 +88,7 @@ const AboutPage = () => {
                 </div>
                 <p className=" text-md lg:text-2xl whitespace-break-spaces font-normal">
                     I&apos;m excited to connect with others via email (
-                    <a href="mailto:hhichri60@gmail.com?body=Hello" rel="noopener noreferrer" target="_blank" className=" text-blue-500 italic font-bold">
+                    <a href="mailto:alexanderdrivas@icloud.com?body=Hello" rel="noopener noreferrer" target="_blank" className=" text-blue-500 italic font-bold">
                         alexanderdrivas@icloud.com
                     </a>
                     ) and{" "}
