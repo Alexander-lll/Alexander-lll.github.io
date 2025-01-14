@@ -6,7 +6,7 @@ import { toast } from "@/components/ui/use-toast";
 const CopyCmd = () => {
     const [copied, setCopied] = useState(false);
     const handleCopyToClipboard = () => {
-        const textToCopy = "py hafedh";
+        const textToCopy = "whoami";
         navigator.clipboard
             .writeText(textToCopy)
             .then(() => {
