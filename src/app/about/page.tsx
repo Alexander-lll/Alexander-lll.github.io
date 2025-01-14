@@ -21,7 +21,7 @@ const AboutPage = () => {
             <div className="flex flex-col gap-4">
                 <h1 className=" text-3xl lg:text-5xl font-bold tracking-wide mt-7">
                     Hi. I&apos;m{" "}
-                    <a href="https://twitter.com/not_so_lain" rel="noopener noreferrer" target="_blank" className=" text-balance text-blue-500">
+                    <a href="https://github.com/Alexander-lll" rel="noopener noreferrer" target="_blank" className=" text-balance text-blue-500">
                         @Alexander-lll{" "}
                     </a>
                     🤗
